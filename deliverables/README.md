@@ -5,7 +5,7 @@ All document work products live here, Markdown-first. See
 
 | Step | Path | Built by | Status |
 |------|------|----------|--------|
-| 1 | `proposal/proposal.md` | any member | not started |
+| 1 | `proposal/proposal.md` | any member | **done 2026-10-01** — see `c001.md` |
 | 2 | `proposal/ppt/` | any member | not started |
 | 3 | `codebase-guidance/` (4 docs) | team lead (or trained member) | not started |
 | 4 | `app/` codebase | any member | not started |

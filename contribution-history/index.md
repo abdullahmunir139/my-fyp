@@ -6,3 +6,4 @@
 
 | File | Contributor | Work type | Idea | Date | Status | Summary |
 |------|-------------|-----------|------|------|--------|---------|
+| c001.md | abdullah | proposal | unassigned | 2026-10-01 | complete | AgriPulse proposal filling all 10 official template sections |

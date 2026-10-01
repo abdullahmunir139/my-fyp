@@ -12,3 +12,6 @@
 | A3.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Gap-only boundary, HHD and LLD mermaid, data allocation from 8 sources, USP |
 | Q4.txt | Q | 2026-10-01 | Human | Human | 1 | Finalizes scope by removing Leaf Check and Reports; asks wireframes and HHD |
 | A4.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Locked 5-page scope, HHD, seven ASCII wireframes, tokens, 7-week plan |
+| 1-FYP Proposal Template.docx | Media | 2026-10-01 | Human | Human | 1 | Official college proposal template docx added as reference for building the proposal |
+| Q5.txt | Q | 2026-10-01 | Human | Human | 1 | Adds official proposal template to media; asks proposal be built with specialist skills, easy words |
+| A5.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Proposal built from template, 27 tools, 51 FRs, 20 NFRs, four specialist skillsets applied |
