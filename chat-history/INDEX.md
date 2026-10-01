@@ -10,3 +10,5 @@
 | A2.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Competitor landscape 13 players, 12/16 factor audit, 4-module scope cut, SFRI formula |
 | Q3.txt | Q | 2026-10-01 | Human | Human | 1 | Asks gap-only scope, rename without AI, boundary, HHD, LLD, USP, data allocation |
 | A3.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Gap-only boundary, HHD and LLD mermaid, data allocation from 8 sources, USP |
+| Q4.txt | Q | 2026-10-01 | Human | Human | 1 | Finalizes scope by removing Leaf Check and Reports; asks wireframes and HHD |
+| A4.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Locked 5-page scope, HHD, seven ASCII wireframes, tokens, 7-week plan |

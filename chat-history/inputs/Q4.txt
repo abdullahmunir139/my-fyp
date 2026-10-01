@@ -1,0 +1,2 @@
+i review the A3.md so i finilized the project by reducing the "Leaf Check + Reports" feture.
+rest of the system i finilized so finilized this and all the main stuff, so just now make the frontend wirefeames of the finilized screens so i can clearly see what exactly this looks like, + HHD, so locak it.

@@ -1,16 +1,16 @@
 # Graph Report - my-fyp-abdullah  (2026-10-01)
 
 ## Corpus Check
-- 26 files · ~22,892 words
+- 27 files · ~26,440 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 257 nodes · 231 edges · 26 communities (17 shown, 9 thin omitted)
+- 287 nodes · 260 edges · 27 communities (18 shown, 9 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `a425c2e8`
+- Built from commit: `e0132b88`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -41,23 +41,24 @@
 - tasks-history/INDEX.md
 - A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes
 - A2 — Competitor Landscape, Scope Shrink, Feasibility Verdict
+- A3 — Scope Refined to the Gap, Full Boundary, HHD, LLD, Data Allocation
 
 ## God Nodes (most connected - your core abstractions)
 1. `Hard Rule — This Is Not Optional` - 18 edges
 2. `A2 — Competitor Landscape, Scope Shrink, Feasibility Verdict` - 13 edges
-3. `A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes` - 11 edges
-4. `Graphify Module — Instructions` - 11 edges
-5. `Notes Module — Instructions` - 11 edges
-6. `Chat-History Module — Instructions` - 10 edges
-7. `Guides Module — Instructions` - 10 edges
-8. `Tasks-History Module — Instructions` - 10 edges
-9. `Contribution-History Module — Instructions` - 9 edges
-10. `Utility Module — Instructions` - 9 edges
+3. `A3 — Scope Refined to the Gap, Full Boundary, HHD, LLD, Data Allocation` - 12 edges
+4. `A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes` - 11 edges
+5. `Graphify Module — Instructions` - 11 edges
+6. `Notes Module — Instructions` - 11 edges
+7. `Chat-History Module — Instructions` - 10 edges
+8. `Guides Module — Instructions` - 10 edges
+9. `Tasks-History Module — Instructions` - 10 edges
+10. `Contribution-History Module — Instructions` - 9 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (26 total, 9 thin omitted)
+## Communities (27 total, 9 thin omitted)
 
 ### Community 0 - "Hard Rule — This Is Not Optional"
 Cohesion: 0.07
@@ -127,16 +128,20 @@ Nodes (22): 10. How each of the 4 problems is closed — traceability, 1. The on
 Cohesion: 0.07
 Nodes (28): 10. Value check — would a farmer actually use this?, 11. 8-week plan, 12. Recommendations, 1. The honest headline, 2. National competitors (Pakistan), 3. International competitors, 4. Positioning — where the defensible gap is, 5. Problem factors — are we actually addressing them? (+20 more)
 
+### Community 26 - "A3 — Scope Refined to the Gap, Full Boundary, HHD, LLD, Data Allocation"
+Cohesion: 0.07
+Nodes (29): 10. Revised timeline, 11. Recommendations, 1. Direct answers first, 2. The boundary — what is inside and what is not, 3.1 System context, 3.2 Layered architecture, 3.3 Component diagram, 3. HHD — High-level Design (+21 more)
+
 ## Knowledge Gaps
-- **186 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+181 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 212 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **207 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+202 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 234 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **9 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)` to the rest of the system?**
-  _186 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _207 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Hard Rule — This Is Not Optional` be split into smaller, more focused modules?**
   _Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected._
 - **Should `Tasks-History Module — Instructions` be split into smaller, more focused modules?**
