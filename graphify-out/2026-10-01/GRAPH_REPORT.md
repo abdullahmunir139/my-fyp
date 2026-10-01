@@ -1,16 +1,16 @@
 # Graph Report - my-fyp-abdullah  (2026-10-01)
 
 ## Corpus Check
-- 33 files · ~40,697 words
+- 33 files · ~40,034 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 400 nodes · 367 edges · 35 communities (25 shown, 10 thin omitted)
+- 394 nodes · 361 edges · 34 communities (24 shown, 10 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `aa691255`
+- Built from commit: `b407e7f2`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -48,8 +48,7 @@
 - Scope of the Project
 - c001 — Proposal for AgriPulse (Soil-Test Driven Farm Planner)
 - Deliverables Index
-- A6 — The Problem Statement Reduced to Four Bullets
-- Problem Statement
+- A6 — The Four Problems Reduced To Four Bullet Points
 
 ## God Nodes (most connected - your core abstractions)
 1. `Hard Rule — This Is Not Optional` - 18 edges
@@ -66,7 +65,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (35 total, 10 thin omitted)
+## Communities (34 total, 10 thin omitted)
 
 ### Community 0 - "Hard Rule — This Is Not Optional"
 Cohesion: 0.07
@@ -145,8 +144,8 @@ Cohesion: 0.06
 Nodes (34): 10. Final dependency list, 11. 7-week build plan, 12. Locked decisions — do not reopen, 1. The final cut, 2.1 System context, 2.2 Layered architecture, 2.3 Component diagram, 2. HHD — locked (+26 more)
 
 ### Community 28 - "(PROJECT PROPOSAL)"
-Cohesion: 0.08
-Nodes (24): Aim, Aim and Objective, Annexure A — Sources of Data, Annexure B — What Is NOT Claimed, Backend, Data files bundled inside the app, DATE, FR group A — Accounts (Module M0) (+16 more)
+Cohesion: 0.06
+Nodes (32): Aim, Aim and Objective, Annexure A — Sources of Data, Annexure B — What Is NOT Claimed, Backend, Data files bundled inside the app, DATE, FR group A — Accounts (Module M0) (+24 more)
 
 ### Community 29 - "A5 — Proposal Built From the Official Template"
 Cohesion: 0.12
@@ -157,29 +156,25 @@ Cohesion: 0.25
 Nodes (8): 1. In scope — what we WILL build, 2. Out of scope — what we will NOT build, and why, 3. Crops, soil types, districts, data volume, 4. Coverage of the four problems — the honest scorecard, 5. Seven-week plan, 6. Risks, and what we do about them, 7. Deliverables, Scope of the Project
 
 ### Community 31 - "c001 — Proposal for AgriPulse (Soil-Test Driven Farm Planner)"
-Cohesion: 0.29
-Nodes (6): c001 — Proposal for AgriPulse (Soil-Test Driven Farm Planner), Evidence, Hours (optional, self-reported), Note for the tracker, Revision log, What was done
+Cohesion: 0.33
+Nodes (5): c001 — Proposal for AgriPulse (Soil-Test Driven Farm Planner), Evidence, Hours (optional, self-reported), Note for the tracker, What was done
 
-### Community 33 - "A6 — The Problem Statement Reduced to Four Bullets"
-Cohesion: 0.18
-Nodes (10): 1. What I did to the file, 2. How each bullet was built, 3. Three tighter variants, if you want them even shorter, 4. One warning about bullet 3, 5. Files touched this turn, A6 — The Problem Statement Reduced to Four Bullets, Direct answer, Variant A — one line each (for a slide) (+2 more)
-
-### Community 34 - "Problem Statement"
-Cohesion: 0.25
-Nodes (8): Problem 1 — Farming decisions are made without real information, Problem 2 — There is no planning before the harvest, Problem 3 — Disease names and cures are in a foreign language, Problem 4 — Existing tools depend on hardware and paid services, Problem Statement, The detail behind each point, The problem, in four points, Why the existing tools do not solve this
+### Community 33 - "A6 — The Four Problems Reduced To Four Bullet Points"
+Cohesion: 0.33
+Nodes (5): A6 — The Four Problems Reduced To Four Bullet Points, Direct answer first, Rules I held to, The four bullet points — drop-in ready, Why each bullet is built this way
 
 ## Knowledge Gaps
-- **295 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+290 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 328 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **290 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+285 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 323 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **10 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `(PROJECT PROPOSAL)` connect `(PROJECT PROPOSAL)` to `Problem Statement`, `Scope of the Project`?**
+- **Why does `(PROJECT PROPOSAL)` connect `(PROJECT PROPOSAL)` to `Scope of the Project`?**
   _High betweenness centrality (0.009) - this node is a cross-community bridge._
 - **What connects `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)` to the rest of the system?**
-  _295 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _290 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Hard Rule — This Is Not Optional` be split into smaller, more focused modules?**
   _Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected._
 - **Should `Tasks-History Module — Instructions` be split into smaller, more focused modules?**

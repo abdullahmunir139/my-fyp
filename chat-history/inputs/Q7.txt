@@ -1,0 +1,4 @@
+okay great work in A6.md now i have more task:
+
+i have a single heading aim and objective and the porposels are good but i want you to give me the detail in a paragraph or suiatable format so i can add there  easily,
+and next i have a scope of the project and there i still need the paragraphs , or bullits  types content to add there and then i have 2 cols of functional requirment +non functional requirments, so what i want you to used the porposel.md as the source and based on that detail make the answer the A.7 file contain only the right format so it will be eaiser for me. again do not alter or do any change in porposel file just make the answer file this is the only task.
