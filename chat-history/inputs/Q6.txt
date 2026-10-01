@@ -32,4 +32,4 @@ A trained model on a server	PlantVillage and Leafwise are free and offline, but 
 So the farmer either pays, or goes blind.
 
 ```
-The above one is the exact right data and i want you to reduce it to only 4 descriptive buiit ponts must be short.
+The above one is the exact right data and i want you to reduce it to only 4 descriptive buiit ponts must be short. and donot update the porposel.md file just answer me in the A6 only no need to modification in any other thing, just give me the answer file that has the 4 bullit points baed on that data above.
