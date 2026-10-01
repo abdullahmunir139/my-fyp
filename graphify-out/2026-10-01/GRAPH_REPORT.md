@@ -1,16 +1,16 @@
 # Graph Report - my-fyp-abdullah  (2026-10-01)
 
 ## Corpus Check
-- 28 files · ~30,447 words
+- 32 files · ~38,886 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 322 nodes · 294 edges · 28 communities (19 shown, 9 thin omitted)
+- 388 nodes · 356 edges · 33 communities (23 shown, 10 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `6b902062`
+- Built from commit: `87078b4f`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -43,23 +43,28 @@
 - A2 — Competitor Landscape, Scope Shrink, Feasibility Verdict
 - A3 — Scope Refined to the Gap, Full Boundary, HHD, LLD, Data Allocation
 - A4 — Finalised Scope: 5 Pages, 4 Modules, HHD Locked, Wireframes
+- (PROJECT PROPOSAL)
+- A5 — Proposal Built From the Official Template
+- Scope of the Project
+- c001 — Proposal for AgriPulse (Soil-Test Driven Farm Planner)
+- Deliverables Index
 
 ## God Nodes (most connected - your core abstractions)
 1. `Hard Rule — This Is Not Optional` - 18 edges
 2. `A2 — Competitor Landscape, Scope Shrink, Feasibility Verdict` - 13 edges
 3. `A4 — Finalised Scope: 5 Pages, 4 Modules, HHD Locked, Wireframes` - 13 edges
-4. `A3 — Scope Refined to the Gap, Full Boundary, HHD, LLD, Data Allocation` - 12 edges
-5. `A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes` - 11 edges
-6. `Graphify Module — Instructions` - 11 edges
-7. `Notes Module — Instructions` - 11 edges
-8. `Chat-History Module — Instructions` - 10 edges
-9. `Guides Module — Instructions` - 10 edges
-10. `Tasks-History Module — Instructions` - 10 edges
+4. `(PROJECT PROPOSAL)` - 13 edges
+5. `A3 — Scope Refined to the Gap, Full Boundary, HHD, LLD, Data Allocation` - 12 edges
+6. `A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes` - 11 edges
+7. `Graphify Module — Instructions` - 11 edges
+8. `Notes Module — Instructions` - 11 edges
+9. `A5 — Proposal Built From the Official Template` - 10 edges
+10. `Chat-History Module — Instructions` - 10 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (28 total, 9 thin omitted)
+## Communities (33 total, 10 thin omitted)
 
 ### Community 0 - "Hard Rule — This Is Not Optional"
 Cohesion: 0.07
@@ -137,16 +142,34 @@ Nodes (29): 10. Revised timeline, 11. Recommendations, 1. Direct answers first, 
 Cohesion: 0.06
 Nodes (34): 10. Final dependency list, 11. 7-week build plan, 12. Locked decisions — do not reopen, 1. The final cut, 2.1 System context, 2.2 Layered architecture, 2.3 Component diagram, 2. HHD — locked (+26 more)
 
+### Community 28 - "(PROJECT PROPOSAL)"
+Cohesion: 0.06
+Nodes (32): Aim, Aim and Objective, Annexure A — Sources of Data, Annexure B — What Is NOT Claimed, Backend, Data files bundled inside the app, DATE, FR group A — Accounts (Module M0) (+24 more)
+
+### Community 29 - "A5 — Proposal Built From the Official Template"
+Cohesion: 0.12
+Nodes (15): 1. What the template actually says, 2.1 Fill the student table — this is the one thing I could not do, 2.2 Export to Word, 2. What you must do before submitting, 3. The four specialised agents I used, 4. The four win themes, 5.1 Problem 3 is written as future work, not as solved, 5.2 The name has no "AI" in it (+7 more)
+
+### Community 30 - "Scope of the Project"
+Cohesion: 0.25
+Nodes (8): 1. In scope — what we WILL build, 2. Out of scope — what we will NOT build, and why, 3. Crops, soil types, districts, data volume, 4. Coverage of the four problems — the honest scorecard, 5. Seven-week plan, 6. Risks, and what we do about them, 7. Deliverables, Scope of the Project
+
+### Community 31 - "c001 — Proposal for AgriPulse (Soil-Test Driven Farm Planner)"
+Cohesion: 0.33
+Nodes (5): c001 — Proposal for AgriPulse (Soil-Test Driven Farm Planner), Evidence, Hours (optional, self-reported), Note for the tracker, What was done
+
 ## Knowledge Gaps
-- **235 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+230 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 263 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
-- **9 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **286 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+281 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 318 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **10 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
+- **Why does `(PROJECT PROPOSAL)` connect `(PROJECT PROPOSAL)` to `Scope of the Project`?**
+  _High betweenness centrality (0.009) - this node is a cross-community bridge._
 - **What connects `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)` to the rest of the system?**
-  _235 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _286 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Hard Rule — This Is Not Optional` be split into smaller, more focused modules?**
   _Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected._
 - **Should `Tasks-History Module — Instructions` be split into smaller, more focused modules?**
@@ -156,6 +179,4 @@ _Questions this graph is uniquely positioned to answer:_
 - **Should `Notes Module — Instructions` be split into smaller, more focused modules?**
   _Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected._
 - **Should `Chat-History Module — Instructions` be split into smaller, more focused modules?**
-  _Cohesion score 0.125 - nodes in this community are weakly interconnected._
-- **Should `Graphify Module — Instructions` be split into smaller, more focused modules?**
   _Cohesion score 0.125 - nodes in this community are weakly interconnected._

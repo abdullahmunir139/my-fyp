@@ -1,0 +1,35 @@
+```
+Problem 1 — Farming decisions are made without real information
+What goes wrong today	Why it happens
+The crop is chosen without knowing what the soil holds	Soil test data exists, but nobody turns it into a decision
+Fertiliser is applied by habit, not by need	The exact quantity is never calculated for the farmer's own field
+The farmer cannot see what his soil is short of	The result stays as a number on a printed slip
+Money and water are wasted on the wrong dose	Nobody links the soil result to the cost sheet
+The soil test already exists. The Government of the Punjab runs the labs and prints a card with the numbers on it. The card stops there.
+
+Problem 2 — There is no planning before the harvest
+What goes wrong today	Why it happens
+The total expense is unknown on the day of sowing	Costs are only known after the season ends
+The water requirement is unknown	Nobody tells him how many irrigations and how many litres
+The expected yield and profit are unknown	No one can tell him if the crop will even pay for itself
+Two crops cannot be compared side by side	Each calculation is done on paper, one at a time
+Inputs cannot be changed and re-checked	The plan is written once and never revisited
+Farmers do plan. They do it in their heads, from memory, using last year's prices. When urea goes up by twenty percent, nobody notices until the bill comes.
+
+Problem 3 — Disease names and cures are in a foreign language
+What goes wrong today	Why it happens
+Advisory books are written in English	The farmer reads Urdu
+The farmer cannot tell two diseases apart from a description	No photo available
+The cure is not given in a local language	No remedy in Urdu
+We state this honestly: this problem is NOT solved in this project. It is listed as future work in the Scope section below, and the reason given there is a good reason.
+
+Problem 4 — Existing tools depend on hardware and paid services
+What it costs today	Detail
+Physical weather stations	Bakhabar Kissan runs 300+ ground stations. That cost cannot be removed from their model.
+A working internet connection	Field signal is patchy. Every online-only tool fails in the field.
+A monthly data subscription	B2B agri-data products (e.g. PAR) sell data, not decisions.
+A trained model on a server	PlantVillage and Leafwise are free and offline, but both cover 38 US and temperate-horticulture classes — not Punjab's field crops.
+So the farmer either pays, or goes blind.
+
+```
+The above one is the exact right data and i want you to reduce it to only 4 descriptive buiit ponts must be short.
