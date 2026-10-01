@@ -1,11 +1,11 @@
 # Graph Report - my-fyp-abdullah  (2026-10-01)
 
 ## Corpus Check
-- 24 files · ~14,240 words
+- 25 files · ~18,614 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 205 nodes · 181 edges · 24 communities (15 shown, 9 thin omitted)
+- 228 nodes · 203 edges · 25 communities (16 shown, 9 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
@@ -39,23 +39,24 @@
 - deliverables/README.md
 - instructions/INDEX.md
 - tasks-history/INDEX.md
+- A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes
 
 ## God Nodes (most connected - your core abstractions)
 1. `Hard Rule — This Is Not Optional` - 18 edges
-2. `Graphify Module — Instructions` - 11 edges
-3. `Notes Module — Instructions` - 11 edges
-4. `Chat-History Module — Instructions` - 10 edges
-5. `Guides Module — Instructions` - 10 edges
-6. `Tasks-History Module — Instructions` - 10 edges
-7. `Contribution-History Module — Instructions` - 9 edges
-8. `Utility Module — Instructions` - 9 edges
-9. `Index Entry Rules — FORCED, applies to every INDEX.md` - 8 edges
-10. `Workflow — 3rd instance (agent's own prompt interface)` - 7 edges
+2. `A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes` - 11 edges
+3. `Graphify Module — Instructions` - 11 edges
+4. `Notes Module — Instructions` - 11 edges
+5. `Chat-History Module — Instructions` - 10 edges
+6. `Guides Module — Instructions` - 10 edges
+7. `Tasks-History Module — Instructions` - 10 edges
+8. `Contribution-History Module — Instructions` - 9 edges
+9. `Utility Module — Instructions` - 9 edges
+10. `Index Entry Rules — FORCED, applies to every INDEX.md` - 8 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (24 total, 9 thin omitted)
+## Communities (25 total, 9 thin omitted)
 
 ### Community 0 - "Hard Rule — This Is Not Optional"
 Cohesion: 0.07
@@ -117,16 +118,20 @@ Nodes (4): Activation checklist (one-time, ~5 minutes), kit — FYP Desk control
 Cohesion: 0.50
 Nodes (3): Flow, <FYP-idea-NN> — Index, Modules
 
+### Community 24 - "A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes"
+Cohesion: 0.09
+Nodes (22): 10. How each of the 4 problems is closed — traceability, 1. The one-line architecture, 2. Tech stack — locked, with the reason, 3.1 System context — the trust boundary, 3.2 Container view — the MERN split, 3.3 Component responsibilities, 3. High-level Design (HHD), 4.1 Module 1 — City & Land Profiler (+14 more)
+
 ## Knowledge Gaps
-- **148 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+143 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 172 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **165 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+160 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 190 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **9 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)` to the rest of the system?**
-  _148 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _165 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Hard Rule — This Is Not Optional` be split into smaller, more focused modules?**
   _Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected._
 - **Should `Tasks-History Module — Instructions` be split into smaller, more focused modules?**
