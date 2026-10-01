@@ -2807,7 +2807,7 @@
       "node_kind": "heading",
       "norm_label": "aim",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L215"
+      "source_location": "L204"
     },
     {
       "id": "deliverables_proposal_proposal_aim_and_objective",
@@ -2819,7 +2819,7 @@
       "node_kind": "heading",
       "norm_label": "aim and objective",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L213"
+      "source_location": "L202"
     },
     {
       "id": "deliverables_proposal_proposal_annexure_a_sources_of_data",
@@ -2831,7 +2831,7 @@
       "node_kind": "heading",
       "norm_label": "annexure a \u2014 sources of data",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L509"
+      "source_location": "L498"
     },
     {
       "id": "deliverables_proposal_proposal_annexure_b_what_is_not_claimed",
@@ -2843,7 +2843,7 @@
       "node_kind": "heading",
       "norm_label": "annexure b \u2014 what is not claimed",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L526"
+      "source_location": "L515"
     },
     {
       "id": "deliverables_proposal_proposal_backend",
@@ -2891,7 +2891,7 @@
       "node_kind": "heading",
       "norm_label": "fr group a \u2014 accounts (module m0)",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L347"
+      "source_location": "L336"
     },
     {
       "id": "deliverables_proposal_proposal_fr_group_b_land_and_climate_module_m1",
@@ -2903,7 +2903,7 @@
       "node_kind": "heading",
       "norm_label": "fr group b \u2014 land and climate (module m1)",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L358"
+      "source_location": "L347"
     },
     {
       "id": "deliverables_proposal_proposal_fr_group_c_npk_fertiliser_advisor_module_m3",
@@ -2915,7 +2915,7 @@
       "node_kind": "heading",
       "norm_label": "fr group c \u2014 npk fertiliser advisor (module m3)",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L369"
+      "source_location": "L358"
     },
     {
       "id": "deliverables_proposal_proposal_fr_group_d_planner_module_m2",
@@ -2927,7 +2927,7 @@
       "node_kind": "heading",
       "norm_label": "fr group d \u2014 planner (module m2)",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L385"
+      "source_location": "L374"
     },
     {
       "id": "deliverables_proposal_proposal_fr_group_e_what_if_simulator_module_m4",
@@ -2939,7 +2939,7 @@
       "node_kind": "heading",
       "norm_label": "fr group e \u2014 what-if simulator (module m4)",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L401"
+      "source_location": "L390"
     },
     {
       "id": "deliverables_proposal_proposal_fr_group_f_reference_data_and_seeding",
@@ -2951,7 +2951,7 @@
       "node_kind": "heading",
       "norm_label": "fr group f \u2014 reference data and seeding",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L413"
+      "source_location": "L402"
     },
     {
       "id": "deliverables_proposal_proposal_frontend",
@@ -2975,7 +2975,7 @@
       "node_kind": "heading",
       "norm_label": "functional requirements",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L342"
+      "source_location": "L331"
     },
     {
       "id": "deliverables_proposal_proposal_non_functional_requirements",
@@ -2987,7 +2987,7 @@
       "node_kind": "heading",
       "norm_label": "non-functional requirements",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L423"
+      "source_location": "L412"
     },
     {
       "id": "deliverables_proposal_proposal_objectives",
@@ -2999,7 +2999,7 @@
       "node_kind": "heading",
       "norm_label": "objectives",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L222"
+      "source_location": "L211"
     },
     {
       "id": "deliverables_proposal_proposal_particulars_of_the_students",
@@ -3011,7 +3011,67 @@
       "node_kind": "heading",
       "norm_label": "particulars of the students",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L450"
+      "source_location": "L439"
+    },
+    {
+      "id": "deliverables_proposal_proposal_problem_1_farming_decisions_are_made_without_real_information",
+      "label": "Problem 1 \u2014 Farming decisions are made without real information",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "(PROJECT PROPOSAL)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "problem 1 \u2014 farming decisions are made without real information",
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L124"
+    },
+    {
+      "id": "deliverables_proposal_proposal_problem_2_there_is_no_planning_before_the_harvest",
+      "label": "Problem 2 \u2014 There is no planning before the harvest",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "(PROJECT PROPOSAL)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "problem 2 \u2014 there is no planning before the harvest",
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L138"
+    },
+    {
+      "id": "deliverables_proposal_proposal_problem_3_disease_names_and_cures_are_in_a_foreign_language",
+      "label": "Problem 3 \u2014 Disease names and cures are in a foreign language",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "(PROJECT PROPOSAL)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "problem 3 \u2014 disease names and cures are in a foreign language",
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L153"
+    },
+    {
+      "id": "deliverables_proposal_proposal_problem_4_existing_tools_depend_on_hardware_and_paid_services",
+      "label": "Problem 4 \u2014 Existing tools depend on hardware and paid services",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "(PROJECT PROPOSAL)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "problem 4 \u2014 existing tools depend on hardware and paid services",
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L167"
+    },
+    {
+      "id": "deliverables_proposal_proposal_problem_statement",
+      "label": "Problem Statement",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "(PROJECT PROPOSAL)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "problem statement",
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L101"
     },
     {
       "id": "deliverables_proposal_proposal_project_proposal",
@@ -3047,7 +3107,31 @@
       "node_kind": "heading",
       "norm_label": "remarks",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L463"
+      "source_location": "L452"
+    },
+    {
+      "id": "deliverables_proposal_proposal_the_long_version",
+      "label": "The long version",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "(PROJECT PROPOSAL)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "the long version",
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L110"
+    },
+    {
+      "id": "deliverables_proposal_proposal_the_short_version",
+      "label": "The short version",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "(PROJECT PROPOSAL)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "the short version",
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L103"
     },
     {
       "id": "deliverables_proposal_proposal_tools_to_be_used",
@@ -3083,7 +3167,19 @@
       "node_kind": "heading",
       "norm_label": "what the farmer learns, in one sentence",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L238"
+      "source_location": "L227"
+    },
+    {
+      "id": "deliverables_proposal_proposal_why_the_existing_tools_do_not_solve_this",
+      "label": "Why the existing tools do not solve this",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "(PROJECT PROPOSAL)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "why the existing tools do not solve this",
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L180"
     },
     {
       "id": "chat_history_outputs_a5",
@@ -3497,7 +3593,7 @@
       "node_kind": "heading",
       "norm_label": "1. in scope \u2014 what we will build",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L248"
+      "source_location": "L237"
     },
     {
       "id": "deliverables_proposal_proposal_2_out_of_scope_what_we_will_not_build_and_why",
@@ -3509,7 +3605,7 @@
       "node_kind": "heading",
       "norm_label": "2. out of scope \u2014 what we will not build, and why",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L260"
+      "source_location": "L249"
     },
     {
       "id": "deliverables_proposal_proposal_3_crops_soil_types_districts_data_volume",
@@ -3521,7 +3617,7 @@
       "node_kind": "heading",
       "norm_label": "3. crops, soil types, districts, data volume",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L278"
+      "source_location": "L267"
     },
     {
       "id": "deliverables_proposal_proposal_4_coverage_of_the_four_problems_the_honest_scorecard",
@@ -3533,7 +3629,7 @@
       "node_kind": "heading",
       "norm_label": "4. coverage of the four problems \u2014 the honest scorecard",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L290"
+      "source_location": "L279"
     },
     {
       "id": "deliverables_proposal_proposal_5_seven_week_plan",
@@ -3545,7 +3641,7 @@
       "node_kind": "heading",
       "norm_label": "5. seven-week plan",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L306"
+      "source_location": "L295"
     },
     {
       "id": "deliverables_proposal_proposal_6_risks_and_what_we_do_about_them",
@@ -3557,7 +3653,7 @@
       "node_kind": "heading",
       "norm_label": "6. risks, and what we do about them",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L320"
+      "source_location": "L309"
     },
     {
       "id": "deliverables_proposal_proposal_7_deliverables",
@@ -3569,7 +3665,7 @@
       "node_kind": "heading",
       "norm_label": "7. deliverables",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L330"
+      "source_location": "L319"
     },
     {
       "id": "deliverables_proposal_proposal_scope_of_the_project",
@@ -3581,7 +3677,7 @@
       "node_kind": "heading",
       "norm_label": "scope of the project",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L246"
+      "source_location": "L235"
     },
     {
       "id": "contribution_history_c001",
@@ -3653,18 +3749,6 @@
       "source_location": "L54"
     },
     {
-      "id": "contribution_history_c001_revision_log",
-      "label": "Revision log",
-      "_origin": "ast",
-      "community": 31,
-      "community_name": "c001 \u2014 Proposal for AgriPulse (Soil-Test Driven Farm Planner)",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "revision log",
-      "source_file": "contribution-history/c001.md",
-      "source_location": "L73"
-    },
-    {
       "id": "contribution_history_c001_what_was_done",
       "label": "What was done",
       "_origin": "ast",
@@ -3717,7 +3801,7 @@
       "label": "A6.md",
       "_origin": "ast",
       "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
+      "community_name": "A6 \u2014 The Four Problems Reduced To Four Bullet Points",
       "file_type": "document",
       "frontmatter": {
         "source": "Q6.txt",
@@ -3731,220 +3815,64 @@
       "source_location": "L1"
     },
     {
-      "id": "chat_history_outputs_a6_1_what_i_did_to_the_file",
-      "label": "1. What I did to the file",
+      "id": "chat_history_outputs_a6_a6_the_four_problems_reduced_to_four_bullet_points",
+      "label": "A6 \u2014 The Four Problems Reduced To Four Bullet Points",
       "_origin": "ast",
       "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
+      "community_name": "A6 \u2014 The Four Problems Reduced To Four Bullet Points",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "1. what i did to the file",
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L34"
-    },
-    {
-      "id": "chat_history_outputs_a6_2_how_each_bullet_was_built",
-      "label": "2. How each bullet was built",
-      "_origin": "ast",
-      "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "2. how each bullet was built",
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L57"
-    },
-    {
-      "id": "chat_history_outputs_a6_3_three_tighter_variants_if_you_want_them_even_shorter",
-      "label": "3. Three tighter variants, if you want them even shorter",
-      "_origin": "ast",
-      "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3. three tighter variants, if you want them even shorter",
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L82"
-    },
-    {
-      "id": "chat_history_outputs_a6_4_one_warning_about_bullet_3",
-      "label": "4. One warning about bullet 3",
-      "_origin": "ast",
-      "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "4. one warning about bullet 3",
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L111"
-    },
-    {
-      "id": "chat_history_outputs_a6_5_files_touched_this_turn",
-      "label": "5. Files touched this turn",
-      "_origin": "ast",
-      "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "5. files touched this turn",
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L124"
-    },
-    {
-      "id": "chat_history_outputs_a6_a6_the_problem_statement_reduced_to_four_bullets",
-      "label": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
-      "_origin": "ast",
-      "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "a6 \u2014 the problem statement reduced to four bullets",
+      "norm_label": "a6 \u2014 the four problems reduced to four bullet points",
       "source_file": "chat-history/outputs/A6.md",
       "source_location": "L8"
     },
     {
-      "id": "chat_history_outputs_a6_direct_answer",
-      "label": "Direct answer",
+      "id": "chat_history_outputs_a6_direct_answer_first",
+      "label": "Direct answer first",
       "_origin": "ast",
       "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
+      "community_name": "A6 \u2014 The Four Problems Reduced To Four Bullet Points",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "direct answer",
+      "norm_label": "direct answer first",
       "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L10"
+      "source_location": "L14"
     },
     {
-      "id": "chat_history_outputs_a6_variant_a_one_line_each_for_a_slide",
-      "label": "Variant A \u2014 one line each (for a slide)",
+      "id": "chat_history_outputs_a6_rules_i_held_to",
+      "label": "Rules I held to",
       "_origin": "ast",
       "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
+      "community_name": "A6 \u2014 The Four Problems Reduced To Four Bullet Points",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "variant a \u2014 one line each (for a slide)",
+      "norm_label": "rules i held to",
       "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L84"
+      "source_location": "L58"
     },
     {
-      "id": "chat_history_outputs_a6_variant_b_headline_plus_one_clause_for_the_defence_spoken",
-      "label": "Variant B \u2014 headline plus one clause (for the defence, spoken)",
+      "id": "chat_history_outputs_a6_the_four_bullet_points_drop_in_ready",
+      "label": "The four bullet points \u2014 drop-in ready",
       "_origin": "ast",
       "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
+      "community_name": "A6 \u2014 The Four Problems Reduced To Four Bullet Points",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "variant b \u2014 headline plus one clause (for the defence, spoken)",
+      "norm_label": "the four bullet points \u2014 drop-in ready",
       "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L91"
+      "source_location": "L25"
     },
     {
-      "id": "chat_history_outputs_a6_variant_c_four_bullet_titles_only_for_a_section_header_strip",
-      "label": "Variant C \u2014 four bullet *titles* only (for a section header strip)",
+      "id": "chat_history_outputs_a6_why_each_bullet_is_built_this_way",
+      "label": "Why each bullet is built this way",
       "_origin": "ast",
       "community": 33,
-      "community_name": "A6 \u2014 The Problem Statement Reduced to Four Bullets",
+      "community_name": "A6 \u2014 The Four Problems Reduced To Four Bullet Points",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "variant c \u2014 four bullet *titles* only (for a section header strip)",
+      "norm_label": "why each bullet is built this way",
       "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L98"
-    },
-    {
-      "id": "deliverables_proposal_proposal_problem_1_farming_decisions_are_made_without_real_information",
-      "label": "Problem 1 \u2014 Farming decisions are made without real information",
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "Problem Statement",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "problem 1 \u2014 farming decisions are made without real information",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L135"
-    },
-    {
-      "id": "deliverables_proposal_proposal_problem_2_there_is_no_planning_before_the_harvest",
-      "label": "Problem 2 \u2014 There is no planning before the harvest",
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "Problem Statement",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "problem 2 \u2014 there is no planning before the harvest",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L149"
-    },
-    {
-      "id": "deliverables_proposal_proposal_problem_3_disease_names_and_cures_are_in_a_foreign_language",
-      "label": "Problem 3 \u2014 Disease names and cures are in a foreign language",
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "Problem Statement",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "problem 3 \u2014 disease names and cures are in a foreign language",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L164"
-    },
-    {
-      "id": "deliverables_proposal_proposal_problem_4_existing_tools_depend_on_hardware_and_paid_services",
-      "label": "Problem 4 \u2014 Existing tools depend on hardware and paid services",
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "Problem Statement",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "problem 4 \u2014 existing tools depend on hardware and paid services",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L178"
-    },
-    {
-      "id": "deliverables_proposal_proposal_problem_statement",
-      "label": "Problem Statement",
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "Problem Statement",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "problem statement",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L101"
-    },
-    {
-      "id": "deliverables_proposal_proposal_the_detail_behind_each_point",
-      "label": "The detail behind each point",
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "Problem Statement",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "the detail behind each point",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L121"
-    },
-    {
-      "id": "deliverables_proposal_proposal_the_problem_in_four_points",
-      "label": "The problem, in four points",
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "Problem Statement",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "the problem, in four points",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L103"
-    },
-    {
-      "id": "deliverables_proposal_proposal_why_the_existing_tools_do_not_solve_this",
-      "label": "Why the existing tools do not solve this",
-      "_origin": "ast",
-      "community": 34,
-      "community_name": "Problem Statement",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "why the existing tools do not solve this",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L191"
+      "source_location": "L49"
     },
     {
       "id": "instructions_chat_history_instructions",
@@ -6336,7 +6264,7 @@
     },
     {
       "source": "chat_history_outputs_a6",
-      "target": "chat_history_outputs_a6_a6_the_problem_statement_reduced_to_four_bullets",
+      "target": "chat_history_outputs_a6_a6_the_four_problems_reduced_to_four_bullet_points",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -6346,102 +6274,47 @@
       "weight": 1.0
     },
     {
-      "source": "chat_history_outputs_a6_3_three_tighter_variants_if_you_want_them_even_shorter",
-      "target": "chat_history_outputs_a6_variant_a_one_line_each_for_a_slide",
+      "source": "chat_history_outputs_a6_a6_the_four_problems_reduced_to_four_bullet_points",
+      "target": "chat_history_outputs_a6_direct_answer_first",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L84",
+      "source_location": "L14",
       "weight": 1.0
     },
     {
-      "source": "chat_history_outputs_a6_3_three_tighter_variants_if_you_want_them_even_shorter",
-      "target": "chat_history_outputs_a6_variant_b_headline_plus_one_clause_for_the_defence_spoken",
+      "source": "chat_history_outputs_a6_a6_the_four_problems_reduced_to_four_bullet_points",
+      "target": "chat_history_outputs_a6_the_four_bullet_points_drop_in_ready",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L91",
+      "source_location": "L25",
       "weight": 1.0
     },
     {
-      "source": "chat_history_outputs_a6_3_three_tighter_variants_if_you_want_them_even_shorter",
-      "target": "chat_history_outputs_a6_variant_c_four_bullet_titles_only_for_a_section_header_strip",
+      "source": "chat_history_outputs_a6_a6_the_four_problems_reduced_to_four_bullet_points",
+      "target": "chat_history_outputs_a6_why_each_bullet_is_built_this_way",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L98",
+      "source_location": "L49",
       "weight": 1.0
     },
     {
-      "source": "chat_history_outputs_a6_a6_the_problem_statement_reduced_to_four_bullets",
-      "target": "chat_history_outputs_a6_direct_answer",
+      "source": "chat_history_outputs_a6_a6_the_four_problems_reduced_to_four_bullet_points",
+      "target": "chat_history_outputs_a6_rules_i_held_to",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L10",
-      "weight": 1.0
-    },
-    {
-      "source": "chat_history_outputs_a6_a6_the_problem_statement_reduced_to_four_bullets",
-      "target": "chat_history_outputs_a6_4_one_warning_about_bullet_3",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L111",
-      "weight": 1.0
-    },
-    {
-      "source": "chat_history_outputs_a6_a6_the_problem_statement_reduced_to_four_bullets",
-      "target": "chat_history_outputs_a6_5_files_touched_this_turn",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L124",
-      "weight": 1.0
-    },
-    {
-      "source": "chat_history_outputs_a6_a6_the_problem_statement_reduced_to_four_bullets",
-      "target": "chat_history_outputs_a6_1_what_i_did_to_the_file",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L34",
-      "weight": 1.0
-    },
-    {
-      "source": "chat_history_outputs_a6_a6_the_problem_statement_reduced_to_four_bullets",
-      "target": "chat_history_outputs_a6_2_how_each_bullet_was_built",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L57",
-      "weight": 1.0
-    },
-    {
-      "source": "chat_history_outputs_a6_a6_the_problem_statement_reduced_to_four_bullets",
-      "target": "chat_history_outputs_a6_3_three_tighter_variants_if_you_want_them_even_shorter",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "chat-history/outputs/A6.md",
-      "source_location": "L82",
+      "source_location": "L58",
       "weight": 1.0
     },
     {
@@ -6497,17 +6370,6 @@
       "confidence_score": 1.0,
       "source_file": "contribution-history/c001.md",
       "source_location": "L67",
-      "weight": 1.0
-    },
-    {
-      "source": "contribution_history_c001_c001_proposal_for_agripulse_soil_test_driven_farm_planner",
-      "target": "contribution_history_c001_revision_log",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "contribution-history/c001.md",
-      "source_location": "L73",
       "weight": 1.0
     },
     {
@@ -6595,7 +6457,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L215",
+      "source_location": "L204",
       "weight": 1.0
     },
     {
@@ -6606,7 +6468,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L222",
+      "source_location": "L211",
       "weight": 1.0
     },
     {
@@ -6617,7 +6479,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L238",
+      "source_location": "L227",
       "weight": 1.0
     },
     {
@@ -6628,7 +6490,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L347",
+      "source_location": "L336",
       "weight": 1.0
     },
     {
@@ -6639,7 +6501,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L358",
+      "source_location": "L347",
       "weight": 1.0
     },
     {
@@ -6650,7 +6512,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L369",
+      "source_location": "L358",
       "weight": 1.0
     },
     {
@@ -6661,7 +6523,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L385",
+      "source_location": "L374",
       "weight": 1.0
     },
     {
@@ -6672,7 +6534,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L401",
+      "source_location": "L390",
       "weight": 1.0
     },
     {
@@ -6683,12 +6545,12 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L413",
+      "source_location": "L402",
       "weight": 1.0
     },
     {
       "source": "deliverables_proposal_proposal_problem_statement",
-      "target": "deliverables_proposal_proposal_the_problem_in_four_points",
+      "target": "deliverables_proposal_proposal_the_short_version",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -6699,13 +6561,13 @@
     },
     {
       "source": "deliverables_proposal_proposal_problem_statement",
-      "target": "deliverables_proposal_proposal_the_detail_behind_each_point",
+      "target": "deliverables_proposal_proposal_the_long_version",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L121",
+      "source_location": "L110",
       "weight": 1.0
     },
     {
@@ -6716,7 +6578,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L135",
+      "source_location": "L124",
       "weight": 1.0
     },
     {
@@ -6727,7 +6589,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L149",
+      "source_location": "L138",
       "weight": 1.0
     },
     {
@@ -6738,7 +6600,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L164",
+      "source_location": "L153",
       "weight": 1.0
     },
     {
@@ -6749,7 +6611,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L178",
+      "source_location": "L167",
       "weight": 1.0
     },
     {
@@ -6760,7 +6622,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L191",
+      "source_location": "L180",
       "weight": 1.0
     },
     {
@@ -6782,7 +6644,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L213",
+      "source_location": "L202",
       "weight": 1.0
     },
     {
@@ -6793,7 +6655,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L246",
+      "source_location": "L235",
       "weight": 1.0
     },
     {
@@ -6815,7 +6677,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L342",
+      "source_location": "L331",
       "weight": 1.0
     },
     {
@@ -6837,7 +6699,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L423",
+      "source_location": "L412",
       "weight": 1.0
     },
     {
@@ -6848,7 +6710,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L450",
+      "source_location": "L439",
       "weight": 1.0
     },
     {
@@ -6859,7 +6721,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L463",
+      "source_location": "L452",
       "weight": 1.0
     },
     {
@@ -6881,7 +6743,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L509",
+      "source_location": "L498",
       "weight": 1.0
     },
     {
@@ -6892,7 +6754,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L526",
+      "source_location": "L515",
       "weight": 1.0
     },
     {
@@ -6903,7 +6765,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L248",
+      "source_location": "L237",
       "weight": 1.0
     },
     {
@@ -6914,7 +6776,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L260",
+      "source_location": "L249",
       "weight": 1.0
     },
     {
@@ -6925,7 +6787,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L278",
+      "source_location": "L267",
       "weight": 1.0
     },
     {
@@ -6936,7 +6798,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L290",
+      "source_location": "L279",
       "weight": 1.0
     },
     {
@@ -6947,7 +6809,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L306",
+      "source_location": "L295",
       "weight": 1.0
     },
     {
@@ -6958,7 +6820,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L320",
+      "source_location": "L309",
       "weight": 1.0
     },
     {
@@ -6969,7 +6831,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L330",
+      "source_location": "L319",
       "weight": 1.0
     },
     {
@@ -8899,5 +8761,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "aa6912557e6502b225af03552902bde018986fd0"
+  "built_at_commit": "b407e7f298ce3a5ebd46f9d61d0780274ca41cfc"
 }

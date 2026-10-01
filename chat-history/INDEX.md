@@ -15,3 +15,5 @@
 | 1-FYP Proposal Template.docx | Media | 2026-10-01 | Human | Human | 1 | Official college proposal template docx added as reference for building the proposal |
 | Q5.txt | Q | 2026-10-01 | Human | Human | 1 | Adds official proposal template to media; asks proposal be built with specialist skills, easy words |
 | A5.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Proposal built from template, 27 tools, 51 FRs, 20 NFRs, four specialist skillsets applied |
+| Q6.txt | Q | 2026-10-01 | Human | Human | 1 | Asks the four problem statements be reduced to four short descriptive bullet points |
+| A6.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Four problems compressed into four one-line bullets, honesty note kept, proposal untouched |
