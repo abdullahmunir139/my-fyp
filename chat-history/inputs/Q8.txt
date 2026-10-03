@@ -1,0 +1,18 @@
+okay so the previous answer file A7.md is not the good one, i have explain the structure so again i repeate, i need the the aim and objective in combine i have sectionheading "aim and objection combine" so there you must make the strucutre of the info like:
+
+[<aim are as follows:>(or something that is simelar to this)]
+    [ldetailed points in lists(measn this line will be (.) start from list point then after this the descriptive description or sentanses)]
+    .
+    .
+    .
+    [atleast minimam 4,5]
+
+AND used this same for objectves just replaced the aim word to objective.
+
+
+
+and the next section is scope so i dont nead sub heading or a lot of content just i need the one paragraph then below descriptive 4,5 minimum list points.
+
+and the functional and non functional requirments must you have created the lot of points + they are in a somekind of numbring so be simple and make the equal functional and non  functional requirments poinst, used only numbring 1. [words..] 2[..words] like that and make sure the minimum fr,nonfr is 10-12
+
+so used the specilized agent skills and this s the porposel and target to fyp and there i see you try to conver each detail in that things there is no need to tell exactly what we are doing in a to much deepth detail the minimal overiew is okay.

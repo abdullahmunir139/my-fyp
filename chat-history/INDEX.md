@@ -19,3 +19,5 @@
 | A6.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Four problems compressed into four one-line bullets, honesty note kept, proposal untouched |
 | Q7.txt | Q | 2026-10-01 | Human | Human | 1 | Asks paste-ready paragraphs for aim, objective, scope and two-column FR/NFR table |
 | A7.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Paste-ready aim, nine objectives, scope prose and bullets, 44 FRs with 20 NFRs in 11 rows |
+| Q8.txt | Q | 2026-10-02 | Human | Human | 1 | Rejects A7 structure; specifies combined aim-objective blocks, scope paragraph, equal FR/NFR lists |
+| A8.md | A | 2026-10-02 | opencode/big-pickle | opencode | 1 | Combined aim and objective blocks, scope paragraph plus six points, 12 FR with 12 NFR |
