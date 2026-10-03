@@ -8,3 +8,4 @@
 |------|-------------|-----------|------|------|--------|---------|
 | c001.md | abdullah | proposal | unassigned | 2026-10-01 | complete | AgriPulse proposal filling all 10 official template sections |
 | c002.md | abdullah | proposal | unassigned | 2026-10-03 | complete | Rewrote proposal defensibly: 13 claims audited, sourced-or-gated data, honest deployment limits |
+| c003.md | abdullah | proposal | unassigned | 2026-10-03 | complete | Rewrote proposal in student voice: removed pitch framing, deployment and future-work sections |
