@@ -5,7 +5,7 @@
 
 | File | Type | Date | Model | Agent | Instance | Summary |
 |------|------|------|-------|-------|----------|---------|
-| proposal/proposal.md | Proposal | 2026-10-01 | opencode/big-pickle | opencode | 1 | AgriPulse proposal filling all 10 official template sections |
+| proposal/proposal.md | Proposal | 2026-10-03 | space-bunny | buffy (freebuff) | 3 | Rewritten for defensibility: 13 claims audited, sourced-or-gated data, honest deployment limits |
 
 ## Notes
 
