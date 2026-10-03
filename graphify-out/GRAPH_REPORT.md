@@ -1,16 +1,16 @@
 # Graph Report - my-fyp-abdullah  (2026-10-03)
 
 ## Corpus Check
-- 43 files · ~52,152 words
+- 46 files · ~53,236 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 449 nodes · 406 edges · 43 communities (31 shown, 12 thin omitted)
+- 468 nodes · 422 edges · 46 communities (32 shown, 14 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `86b03e00`
+- Built from commit: `139fe4ae`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -58,6 +58,9 @@
 - T002 — Tracker
 - c003 — AgriPulse Proposal Rewritten In Student Voice
 - T002-log.md
+- Installing Graphify on Windows OS — Guide
+- A9 — Graphify installation guide for Windows
+- guides/INDEX.md
 
 ## God Nodes (most connected - your core abstractions)
 1. `Hard Rule — This Is Not Optional` - 18 edges
@@ -69,12 +72,12 @@
 7. `Graphify Module — Instructions` - 11 edges
 8. `Notes Module — Instructions` - 11 edges
 9. `A5 — Proposal Built From the Official Template` - 10 edges
-10. `Chat-History Module — Instructions` - 10 edges
+10. `Installing Graphify on Windows OS — Guide` - 10 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (43 total, 12 thin omitted)
+## Communities (46 total, 14 thin omitted)
 
 ### Community 0 - "Hard Rule — This Is Not Optional"
 Cohesion: 0.07
@@ -200,16 +203,20 @@ Nodes (6): Acceptance criteria, Five reframes to apply, Hard constraints from th
 Cohesion: 0.40
 Nodes (4): c003 — AgriPulse Proposal Rewritten In Student Voice, Evidence, Note for the tracker, What was done
 
+### Community 43 - "Installing Graphify on Windows OS — Guide"
+Cohesion: 0.14
+Nodes (13): 1. Prerequisites, 2. Install Graphify, 3. Verify the install, 4. Build the graph for this repo, 5. Windows-specific notes, 6. Command reference, 7. Troubleshooting, Fixing "graphify is not recognized" (+5 more)
+
 ## Knowledge Gaps
-- **324 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+319 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 365 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
-- **12 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **336 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+331 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 380 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **14 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)` to the rest of the system?**
-  _324 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _336 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Hard Rule — This Is Not Optional` be split into smaller, more focused modules?**
   _Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected._
 - **Should `Tasks-History Module — Instructions` be split into smaller, more focused modules?**

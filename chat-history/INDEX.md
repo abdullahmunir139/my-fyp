@@ -21,3 +21,5 @@
 | A7.md | A | 2026-10-01 | opencode/big-pickle | opencode | 1 | Paste-ready aim, nine objectives, scope prose and bullets, 44 FRs with 20 NFRs in 11 rows |
 | Q8.txt | Q | 2026-10-02 | Human | Human | 1 | Rejects A7 structure; specifies combined aim-objective blocks, scope paragraph, equal FR/NFR lists |
 | A8.md | A | 2026-10-02 | opencode/big-pickle | opencode | 1 | Combined aim and objective blocks, scope paragraph plus six points, 12 FR with 12 NFR |
+| Q9.txt | Q | 2026-10-03 | Human | Human | 1 | Asks to make the guide for installing graphify on Windows OS |
+| A9.md | A | 2026-10-03 | opencode/big-pickle | opencode | 1 | Answers Q9; points to compiled Windows graphify install guide in guides module |

@@ -1,16 +1,16 @@
 # Graph Report - my-fyp-abdullah  (2026-10-03)
 
 ## Corpus Check
-- 39 files · ~49,946 words
+- 46 files · ~53,234 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 431 nodes · 392 edges · 39 communities (28 shown, 11 thin omitted)
+- 468 nodes · 422 edges · 46 communities (32 shown, 14 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `57480162`
+- Built from commit: `139fe4ae`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -54,10 +54,17 @@
 - c002 — AgriPulse Proposal Rewritten For Defensibility
 - T001 — Tracker
 - T001 — Log
+- E002 — Student-Voice Rewrite Of The AgriPulse Proposal
+- T002 — Tracker
+- c003 — AgriPulse Proposal Rewritten In Student Voice
+- T002-log.md
+- Installing Graphify on Windows OS — Guide
+- A9 — Graphify installation guide for Windows
+- guides/INDEX.md
 
 ## God Nodes (most connected - your core abstractions)
-1. `Project Proposal` - 20 edges
-2. `Hard Rule — This Is Not Optional` - 18 edges
+1. `Hard Rule — This Is Not Optional` - 18 edges
+2. `Project Proposal` - 16 edges
 3. `A2 — Competitor Landscape, Scope Shrink, Feasibility Verdict` - 13 edges
 4. `A4 — Finalised Scope: 5 Pages, 4 Modules, HHD Locked, Wireframes` - 13 edges
 5. `A3 — Scope Refined to the Gap, Full Boundary, HHD, LLD, Data Allocation` - 12 edges
@@ -65,12 +72,12 @@
 7. `Graphify Module — Instructions` - 11 edges
 8. `Notes Module — Instructions` - 11 edges
 9. `A5 — Proposal Built From the Official Template` - 10 edges
-10. `Chat-History Module — Instructions` - 10 edges
+10. `Installing Graphify on Windows OS — Guide` - 10 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (39 total, 11 thin omitted)
+## Communities (46 total, 14 thin omitted)
 
 ### Community 0 - "Hard Rule — This Is Not Optional"
 Cohesion: 0.07
@@ -149,8 +156,8 @@ Cohesion: 0.06
 Nodes (34): 10. Final dependency list, 11. 7-week build plan, 12. Locked decisions — do not reopen, 1. The final cut, 2.1 System context, 2.2 Layered architecture, 2.3 Component diagram, 2. HHD — locked (+26 more)
 
 ### Community 28 - "Project Proposal"
-Cohesion: 0.07
-Nodes (28): A fourth real problem, declared out of scope, Aim and Objective, Appendix A — Sources of Data, Appendix B — What Is NOT Claimed, Coverage Scorecard, DATE, Deliverables, Deployment and Use — How a Farmer Actually Reaches This (+20 more)
+Cohesion: 0.08
+Nodes (23): Aim and Objective, Appendix A — Sources of Data, Build Schedule, Coverage Scorecard, DATE, Functional and Non-Functional Requirements, Functional Requirements, Non-Functional Requirements (+15 more)
 
 ### Community 29 - "A5 — Proposal Built From the Official Template"
 Cohesion: 0.12
@@ -184,16 +191,32 @@ Nodes (5): c002 — AgriPulse Proposal Rewritten For Defensibility, Evidence, Ho
 Cohesion: 0.33
 Nodes (5): Acceptance criteria, Goal, Open questions for the user, Steps, T001 — Tracker
 
+### Community 39 - "E002 — Student-Voice Rewrite Of The AgriPulse Proposal"
+Cohesion: 0.22
+Nodes (8): 1. The finding that shaped the rewrite, 2. What was cut, and why, 3. What was reframed, not deleted, 4. One conflict, and how I resolved it, 5. Verification, 6. What you still have to do — unchanged from E001, 7. One thing to watch in the viva, E002 — Student-Voice Rewrite Of The AgriPulse Proposal
+
+### Community 40 - "T002 — Tracker"
+Cohesion: 0.29
+Nodes (6): Acceptance criteria, Five reframes to apply, Hard constraints from the user, One conflict flagged to the user, T002 — Tracker, The complaint, restated
+
+### Community 41 - "c003 — AgriPulse Proposal Rewritten In Student Voice"
+Cohesion: 0.40
+Nodes (4): c003 — AgriPulse Proposal Rewritten In Student Voice, Evidence, Note for the tracker, What was done
+
+### Community 43 - "Installing Graphify on Windows OS — Guide"
+Cohesion: 0.14
+Nodes (13): 1. Prerequisites, 2. Install Graphify, 3. Verify the install, 4. Build the graph for this repo, 5. Windows-specific notes, 6. Command reference, 7. Troubleshooting, Fixing "graphify is not recognized" (+5 more)
+
 ## Knowledge Gaps
-- **313 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+308 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 350 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
-- **11 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **336 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+331 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 380 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **14 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)` to the rest of the system?**
-  _313 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _336 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Hard Rule — This Is Not Optional` be split into smaller, more focused modules?**
   _Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected._
 - **Should `Tasks-History Module — Instructions` be split into smaller, more focused modules?**

@@ -2792,24 +2792,12 @@
         "agent": "buffy (freebuff)",
         "template_source": "chat-history/media/1-FYP Proposal Template.docx",
         "scope_of_record": "chat-history/outputs/A4.md",
-        "revision": "2 \u2014 defensibility rewrite. Every claim restated so it can be shown."
+        "revision": "3 \u2014 student-voice rewrite. Pitch framing and forward-looking"
       },
       "node_kind": "page",
       "norm_label": "proposal.md",
       "source_file": "deliverables/proposal/proposal.md",
       "source_location": "L1"
-    },
-    {
-      "id": "deliverables_proposal_proposal_a_fourth_real_problem_declared_out_of_scope",
-      "label": "A fourth real problem, declared out of scope",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Project Proposal",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "a fourth real problem, declared out of scope",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L111"
     },
     {
       "id": "deliverables_proposal_proposal_aim_and_objective",
@@ -2821,7 +2809,7 @@
       "node_kind": "heading",
       "norm_label": "aim and objective",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L150"
+      "source_location": "L131"
     },
     {
       "id": "deliverables_proposal_proposal_appendix_a_sources_of_data",
@@ -2833,19 +2821,19 @@
       "node_kind": "heading",
       "norm_label": "appendix a \u2014 sources of data",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L587"
+      "source_location": "L465"
     },
     {
-      "id": "deliverables_proposal_proposal_appendix_b_what_is_not_claimed",
-      "label": "Appendix B \u2014 What Is NOT Claimed",
+      "id": "deliverables_proposal_proposal_build_schedule",
+      "label": "Build Schedule",
       "_origin": "ast",
       "community": 28,
       "community_name": "Project Proposal",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "appendix b \u2014 what is not claimed",
+      "norm_label": "build schedule",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L604"
+      "source_location": "L449"
     },
     {
       "id": "deliverables_proposal_proposal_coverage_scorecard",
@@ -2857,7 +2845,7 @@
       "node_kind": "heading",
       "norm_label": "coverage scorecard",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L463"
+      "source_location": "L424"
     },
     {
       "id": "deliverables_proposal_proposal_date",
@@ -2869,43 +2857,7 @@
       "node_kind": "heading",
       "norm_label": "date",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L33"
-    },
-    {
-      "id": "deliverables_proposal_proposal_deliverables",
-      "label": "Deliverables",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Project Proposal",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "deliverables",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L494"
-    },
-    {
-      "id": "deliverables_proposal_proposal_deployment_and_use_how_a_farmer_actually_reaches_this",
-      "label": "Deployment and Use \u2014 How a Farmer Actually Reaches This",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Project Proposal",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "deployment and use \u2014 how a farmer actually reaches this",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L255"
-    },
-    {
-      "id": "deliverables_proposal_proposal_evidence_and_how_each_number_is_defended",
-      "label": "Evidence and How Each Number Is Defended",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Project Proposal",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "evidence and how each number is defended",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L426"
+      "source_location": "L28"
     },
     {
       "id": "deliverables_proposal_proposal_functional_and_non_functional_requirements",
@@ -2917,7 +2869,7 @@
       "node_kind": "heading",
       "norm_label": "functional and non-functional requirements",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L288"
+      "source_location": "L236"
     },
     {
       "id": "deliverables_proposal_proposal_functional_requirements",
@@ -2929,7 +2881,7 @@
       "node_kind": "heading",
       "norm_label": "functional requirements",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L293"
+      "source_location": "L241"
     },
     {
       "id": "deliverables_proposal_proposal_non_functional_requirements",
@@ -2941,7 +2893,7 @@
       "node_kind": "heading",
       "norm_label": "non-functional requirements",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L339"
+      "source_location": "L287"
     },
     {
       "id": "deliverables_proposal_proposal_particulars_of_the_students",
@@ -2953,7 +2905,7 @@
       "node_kind": "heading",
       "norm_label": "particulars of the students",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L522"
+      "source_location": "L334"
     },
     {
       "id": "deliverables_proposal_proposal_problem_statement",
@@ -2965,7 +2917,7 @@
       "node_kind": "heading",
       "norm_label": "problem statement",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L89"
+      "source_location": "L88"
     },
     {
       "id": "deliverables_proposal_proposal_project_proposal",
@@ -2977,7 +2929,7 @@
       "node_kind": "heading",
       "norm_label": "project proposal",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L27"
+      "source_location": "L22"
     },
     {
       "id": "deliverables_proposal_proposal_project_title",
@@ -2989,19 +2941,19 @@
       "node_kind": "heading",
       "norm_label": "project title",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L41"
+      "source_location": "L36"
     },
     {
-      "id": "deliverables_proposal_proposal_remarks_why_a_supervisor_should_approve_this_project",
-      "label": "Remarks \u2014 Why a Supervisor Should Approve This Project",
+      "id": "deliverables_proposal_proposal_remarks",
+      "label": "Remarks",
       "_origin": "ast",
       "community": 28,
       "community_name": "Project Proposal",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "remarks \u2014 why a supervisor should approve this project",
+      "norm_label": "remarks",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L536"
+      "source_location": "L348"
     },
     {
       "id": "deliverables_proposal_proposal_risks_and_the_response_to_each",
@@ -3013,7 +2965,7 @@
       "node_kind": "heading",
       "norm_label": "risks and the response to each",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L480"
+      "source_location": "L437"
     },
     {
       "id": "deliverables_proposal_proposal_scope_of_the_project",
@@ -3025,19 +2977,7 @@
       "node_kind": "heading",
       "norm_label": "scope of the project",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L207"
-    },
-    {
-      "id": "deliverables_proposal_proposal_seven_week_plan_with_a_gate_each_week",
-      "label": "Seven-Week Plan With a Gate Each Week",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Project Proposal",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "seven-week plan with a gate each week",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L506"
+      "source_location": "L187"
     },
     {
       "id": "deliverables_proposal_proposal_signatures_and_date",
@@ -3049,7 +2989,7 @@
       "node_kind": "heading",
       "norm_label": "signatures and date",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L574"
+      "source_location": "L382"
     },
     {
       "id": "deliverables_proposal_proposal_the_aim_of_this_project_is_as_follows",
@@ -3061,7 +3001,7 @@
       "node_kind": "heading",
       "norm_label": "the aim of this project is as follows:",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L152"
+      "source_location": "L133"
     },
     {
       "id": "deliverables_proposal_proposal_the_gap_in_one_line",
@@ -3073,7 +3013,7 @@
       "node_kind": "heading",
       "norm_label": "the gap, in one line",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L126"
+      "source_location": "L109"
     },
     {
       "id": "deliverables_proposal_proposal_the_objectives_of_this_project_are_as_follows",
@@ -3085,7 +3025,7 @@
       "node_kind": "heading",
       "norm_label": "the objectives of this project are as follows:",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L176"
+      "source_location": "L156"
     },
     {
       "id": "deliverables_proposal_proposal_the_validation_reference_stated_precisely",
@@ -3097,19 +3037,7 @@
       "node_kind": "heading",
       "norm_label": "the validation reference, stated precisely",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L441"
-    },
-    {
-      "id": "deliverables_proposal_proposal_the_whole_app_rule_zero_runtime_network_dependencies",
-      "label": "The Whole-App Rule: Zero Runtime Network Dependencies",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Project Proposal",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "the whole-app rule: zero runtime network dependencies",
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L387"
+      "source_location": "L404"
     },
     {
       "id": "deliverables_proposal_proposal_tools_to_be_used",
@@ -3121,19 +3049,31 @@
       "node_kind": "heading",
       "norm_label": "tools to be used",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L55"
+      "source_location": "L47"
     },
     {
-      "id": "deliverables_proposal_proposal_why_the_existing_tools_do_not_close_it",
-      "label": "Why the existing tools do not close it",
+      "id": "deliverables_proposal_proposal_what_the_existing_tools_do_and_do_not_do",
+      "label": "What the existing tools do and do not do",
       "_origin": "ast",
       "community": 28,
       "community_name": "Project Proposal",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "why the existing tools do not close it",
+      "norm_label": "what the existing tools do and do not do",
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L132"
+      "source_location": "L115"
+    },
+    {
+      "id": "deliverables_proposal_proposal_where_every_number_comes_from",
+      "label": "Where Every Number Comes From",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "Project Proposal",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "where every number comes from",
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L395"
     },
     {
       "id": "chat_history_outputs_a5",
@@ -4362,6 +4302,123 @@
       "source_location": "L7"
     },
     {
+      "id": "tasks_history_executions_e002",
+      "label": "E002.md",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "file_type": "document",
+      "frontmatter": {
+        "task": "T002",
+        "date": "2026-10-03",
+        "model": "space-bunny",
+        "agent": "buffy (freebuff)",
+        "instance": "2",
+        "target": "deliverables/proposal/proposal.md",
+        "result": "rewritten"
+      },
+      "node_kind": "page",
+      "norm_label": "e002.md",
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "tasks_history_executions_e002_1_the_finding_that_shaped_the_rewrite",
+      "label": "1. The finding that shaped the rewrite",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1. the finding that shaped the rewrite",
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L26"
+    },
+    {
+      "id": "tasks_history_executions_e002_2_what_was_cut_and_why",
+      "label": "2. What was cut, and why",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2. what was cut, and why",
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L52"
+    },
+    {
+      "id": "tasks_history_executions_e002_3_what_was_reframed_not_deleted",
+      "label": "3. What was reframed, not deleted",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3. what was reframed, not deleted",
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L67"
+    },
+    {
+      "id": "tasks_history_executions_e002_4_one_conflict_and_how_i_resolved_it",
+      "label": "4. One conflict, and how I resolved it",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4. one conflict, and how i resolved it",
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L97"
+    },
+    {
+      "id": "tasks_history_executions_e002_5_verification",
+      "label": "5. Verification",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5. verification",
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L114"
+    },
+    {
+      "id": "tasks_history_executions_e002_6_what_you_still_have_to_do_unchanged_from_e001",
+      "label": "6. What you still have to do \u2014 unchanged from E001",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "6. what you still have to do \u2014 unchanged from e001",
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L134"
+    },
+    {
+      "id": "tasks_history_executions_e002_7_one_thing_to_watch_in_the_viva",
+      "label": "7. One thing to watch in the viva",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "7. one thing to watch in the viva",
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L146"
+    },
+    {
+      "id": "tasks_history_executions_e002_e002_student_voice_rewrite_of_the_agripulse_proposal",
+      "label": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "E002 \u2014 Student-Voice Rewrite Of The AgriPulse Proposal",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "e002 \u2014 student-voice rewrite of the agripulse proposal",
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L11"
+    },
+    {
       "id": "instructions_chat_history_instructions",
       "label": "chat_history_instructions.md",
       "_origin": "ast",
@@ -4552,6 +4609,440 @@
       "norm_label": "workflow \u2014 \"see q(n).txt and answer\" (1st instance)",
       "source_file": "instructions/chat_history_instructions.md",
       "source_location": "L78"
+    },
+    {
+      "id": "tasks_history_active_t002_tracker",
+      "label": "T002-tracker.md",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "T002 \u2014 Tracker",
+      "file_type": "document",
+      "frontmatter": {
+        "task": "T002",
+        "date": "2026-10-03",
+        "model": "space-bunny",
+        "agent": "buffy (freebuff)",
+        "instance": "2",
+        "target": "deliverables/proposal/proposal.md",
+        "status": "in-progress"
+      },
+      "node_kind": "page",
+      "norm_label": "t002-tracker.md",
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "tasks_history_active_t002_tracker_acceptance_criteria",
+      "label": "Acceptance criteria",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "T002 \u2014 Tracker",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "acceptance criteria",
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L49"
+    },
+    {
+      "id": "tasks_history_active_t002_tracker_five_reframes_to_apply",
+      "label": "Five reframes to apply",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "T002 \u2014 Tracker",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "five reframes to apply",
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "tasks_history_active_t002_tracker_hard_constraints_from_the_user",
+      "label": "Hard constraints from the user",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "T002 \u2014 Tracker",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "hard constraints from the user",
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L41"
+    },
+    {
+      "id": "tasks_history_active_t002_tracker_one_conflict_flagged_to_the_user",
+      "label": "One conflict flagged to the user",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "T002 \u2014 Tracker",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "one conflict flagged to the user",
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L61"
+    },
+    {
+      "id": "tasks_history_active_t002_tracker_t002_tracker",
+      "label": "T002 \u2014 Tracker",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "T002 \u2014 Tracker",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "t002 \u2014 tracker",
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "tasks_history_active_t002_tracker_the_complaint_restated",
+      "label": "The complaint, restated",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "T002 \u2014 Tracker",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "the complaint, restated",
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "contribution_history_c003",
+      "label": "c003.md",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "c003 \u2014 AgriPulse Proposal Rewritten In Student Voice",
+      "file_type": "document",
+      "frontmatter": {
+        "id": "c003",
+        "date": "2026-10-03",
+        "contributor": "abdullah",
+        "work_type": "proposal",
+        "idea_id": "unassigned",
+        "deal_id": "unassigned",
+        "status": "complete"
+      },
+      "node_kind": "page",
+      "norm_label": "c003.md",
+      "source_file": "contribution-history/c003.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "contribution_history_c003_c003_agripulse_proposal_rewritten_in_student_voice",
+      "label": "c003 \u2014 AgriPulse Proposal Rewritten In Student Voice",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "c003 \u2014 AgriPulse Proposal Rewritten In Student Voice",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "c003 \u2014 agripulse proposal rewritten in student voice",
+      "source_file": "contribution-history/c003.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "contribution_history_c003_evidence",
+      "label": "Evidence",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "c003 \u2014 AgriPulse Proposal Rewritten In Student Voice",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "evidence",
+      "source_file": "contribution-history/c003.md",
+      "source_location": "L73"
+    },
+    {
+      "id": "contribution_history_c003_note_for_the_tracker",
+      "label": "Note for the tracker",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "c003 \u2014 AgriPulse Proposal Rewritten In Student Voice",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "note for the tracker",
+      "source_file": "contribution-history/c003.md",
+      "source_location": "L82"
+    },
+    {
+      "id": "contribution_history_c003_what_was_done",
+      "label": "What was done",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "c003 \u2014 AgriPulse Proposal Rewritten In Student Voice",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "what was done",
+      "source_file": "contribution-history/c003.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "tasks_history_logs_t002_log",
+      "label": "T002-log.md",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "T002-log.md",
+      "file_type": "document",
+      "frontmatter": {
+        "task": "T002",
+        "date": "2026-10-03",
+        "model": "space-bunny",
+        "agent": "buffy (freebuff)",
+        "instance": "2"
+      },
+      "node_kind": "page",
+      "norm_label": "t002-log.md",
+      "source_file": "tasks-history/logs/T002-log.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "tasks_history_logs_t002_log_t002_action_log",
+      "label": "T002 \u2014 Action Log",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "T002-log.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "t002 \u2014 action log",
+      "source_file": "tasks-history/logs/T002-log.md",
+      "source_location": "L9"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide",
+      "label": "graphify-windows-install-guide.md",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "frontmatter": {
+        "source": "Q9.txt",
+        "date": "2026-10-03",
+        "model": "opencode/big-pickle",
+        "agent": "opencode",
+        "instance": "1"
+      },
+      "node_kind": "page",
+      "norm_label": "graphify-windows-install-guide.md",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_1_prerequisites",
+      "label": "1. Prerequisites",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1. prerequisites",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L27"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_2_install_graphify",
+      "label": "2. Install Graphify",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2. install graphify",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L50"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_3_verify_the_install",
+      "label": "3. Verify the install",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3. verify the install",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L83"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_4_build_the_graph_for_this_repo",
+      "label": "4. Build the graph for this repo",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4. build the graph for this repo",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L111"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_5_windows_specific_notes",
+      "label": "5. Windows-specific notes",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5. windows-specific notes",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L133"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_6_command_reference",
+      "label": "6. Command reference",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "6. command reference",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L151"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_7_troubleshooting",
+      "label": "7. Troubleshooting",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "7. troubleshooting",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L164"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_fixing_graphify_is_not_recognized",
+      "label": "Fixing \"graphify is not recognized\"",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "fixing \"graphify is not recognized\"",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L97"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "label": "Installing Graphify on Windows OS \u2014 Guide",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "installing graphify on windows os \u2014 guide",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L8"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_option_a_uv_recommended",
+      "label": "Option A \u2014 uv (recommended)",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "option a \u2014 uv (recommended)",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L52"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_option_b_pip",
+      "label": "Option B \u2014 pip",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "option b \u2014 pip",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L65"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_rules_of_use_in_this_repo",
+      "label": "Rules of use in this repo",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "rules of use in this repo",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L175"
+    },
+    {
+      "id": "guides_graphify_windows_install_guide_what_you_get",
+      "label": "What you get",
+      "_origin": "ast",
+      "community": 43,
+      "community_name": "Installing Graphify on Windows OS \u2014 Guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "what you get",
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L17"
+    },
+    {
+      "id": "chat_history_outputs_a9",
+      "label": "A9.md",
+      "_origin": "ast",
+      "community": 44,
+      "community_name": "A9 \u2014 Graphify installation guide for Windows",
+      "file_type": "document",
+      "frontmatter": {
+        "source": "Q9.txt",
+        "date": "2026-10-03",
+        "model": "opencode/big-pickle",
+        "agent": "opencode"
+      },
+      "node_kind": "page",
+      "norm_label": "a9.md",
+      "source_file": "chat-history/outputs/A9.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "chat_history_outputs_a9_1_make_the_guide_for_installing_graphify_in_windows_os",
+      "label": "1. Make the guide for installing Graphify in Windows OS",
+      "_origin": "ast",
+      "community": 44,
+      "community_name": "A9 \u2014 Graphify installation guide for Windows",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1. make the guide for installing graphify in windows os",
+      "source_file": "chat-history/outputs/A9.md",
+      "source_location": "L10"
+    },
+    {
+      "id": "chat_history_outputs_a9_a9_graphify_installation_guide_for_windows",
+      "label": "A9 \u2014 Graphify installation guide for Windows",
+      "_origin": "ast",
+      "community": 44,
+      "community_name": "A9 \u2014 Graphify installation guide for Windows",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "a9 \u2014 graphify installation guide for windows",
+      "source_file": "chat-history/outputs/A9.md",
+      "source_location": "L8"
+    },
+    {
+      "id": "guides_index",
+      "label": "guides/INDEX.md",
+      "_origin": "ast",
+      "community": 45,
+      "community_name": "guides/INDEX.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "guides/index.md",
+      "source_file": "guides/INDEX.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "guides_index_guides_index",
+      "label": "Guides Index",
+      "_origin": "ast",
+      "community": 45,
+      "community_name": "guides/INDEX.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "guides index",
+      "source_file": "guides/INDEX.md",
+      "source_location": "L1"
     },
     {
       "id": "instructions_graphify_instructions",
@@ -7069,6 +7560,28 @@
       "weight": 1.0
     },
     {
+      "source": "chat_history_outputs_a9",
+      "target": "chat_history_outputs_a9_a9_graphify_installation_guide_for_windows",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "chat-history/outputs/A9.md",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "chat_history_outputs_a9_a9_graphify_installation_guide_for_windows",
+      "target": "chat_history_outputs_a9_1_make_the_guide_for_installing_graphify_in_windows_os",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "chat-history/outputs/A9.md",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
       "source": "contribution_history_c001",
       "target": "contribution_history_c001_c001_proposal_for_agripulse_soil_test_driven_farm_planner",
       "relation": "contains",
@@ -7179,6 +7692,50 @@
       "weight": 1.0
     },
     {
+      "source": "contribution_history_c003",
+      "target": "contribution_history_c003_c003_agripulse_proposal_rewritten_in_student_voice",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "contribution-history/c003.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "contribution_history_c003_c003_agripulse_proposal_rewritten_in_student_voice",
+      "target": "contribution_history_c003_what_was_done",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "contribution-history/c003.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "contribution_history_c003_c003_agripulse_proposal_rewritten_in_student_voice",
+      "target": "contribution_history_c003_evidence",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "contribution-history/c003.md",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "contribution_history_c003_c003_agripulse_proposal_rewritten_in_student_voice",
+      "target": "contribution_history_c003_note_for_the_tracker",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "contribution-history/c003.md",
+      "source_location": "L82",
+      "weight": 1.0
+    },
+    {
       "source": "contribution_history_index",
       "target": "contribution_history_index_contribution_history_index",
       "relation": "contains",
@@ -7252,7 +7809,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L27",
+      "source_location": "L22",
       "weight": 1.0
     },
     {
@@ -7263,7 +7820,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L152",
+      "source_location": "L133",
       "weight": 1.0
     },
     {
@@ -7274,18 +7831,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L176",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_evidence_and_how_each_number_is_defended",
-      "target": "deliverables_proposal_proposal_the_validation_reference_stated_precisely",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L441",
+      "source_location": "L156",
       "weight": 1.0
     },
     {
@@ -7296,7 +7842,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L293",
+      "source_location": "L241",
       "weight": 1.0
     },
     {
@@ -7307,18 +7853,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L339",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_problem_statement",
-      "target": "deliverables_proposal_proposal_a_fourth_real_problem_declared_out_of_scope",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L111",
+      "source_location": "L287",
       "weight": 1.0
     },
     {
@@ -7329,18 +7864,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L126",
+      "source_location": "L109",
       "weight": 1.0
     },
     {
       "source": "deliverables_proposal_proposal_problem_statement",
-      "target": "deliverables_proposal_proposal_why_the_existing_tools_do_not_close_it",
+      "target": "deliverables_proposal_proposal_what_the_existing_tools_do_and_do_not_do",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L132",
+      "source_location": "L115",
       "weight": 1.0
     },
     {
@@ -7351,7 +7886,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L150",
+      "source_location": "L131",
       "weight": 1.0
     },
     {
@@ -7362,18 +7897,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L207",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_deployment_and_use_how_a_farmer_actually_reaches_this",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L255",
+      "source_location": "L187",
       "weight": 1.0
     },
     {
@@ -7384,7 +7908,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L288",
+      "source_location": "L236",
       "weight": 1.0
     },
     {
@@ -7395,84 +7919,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L33",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_the_whole_app_rule_zero_runtime_network_dependencies",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L387",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_project_title",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L41",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_evidence_and_how_each_number_is_defended",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L426",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_coverage_scorecard",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L463",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_risks_and_the_response_to_each",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L480",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_deliverables",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L494",
-      "weight": 1.0
-    },
-    {
-      "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_seven_week_plan_with_a_gate_each_week",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L506",
+      "source_location": "L28",
       "weight": 1.0
     },
     {
@@ -7483,29 +7930,29 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L522",
+      "source_location": "L334",
       "weight": 1.0
     },
     {
       "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_remarks_why_a_supervisor_should_approve_this_project",
+      "target": "deliverables_proposal_proposal_remarks",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L536",
+      "source_location": "L348",
       "weight": 1.0
     },
     {
       "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_tools_to_be_used",
+      "target": "deliverables_proposal_proposal_project_title",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L55",
+      "source_location": "L36",
       "weight": 1.0
     },
     {
@@ -7516,7 +7963,51 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L574",
+      "source_location": "L382",
+      "weight": 1.0
+    },
+    {
+      "source": "deliverables_proposal_proposal_project_proposal",
+      "target": "deliverables_proposal_proposal_where_every_number_comes_from",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L395",
+      "weight": 1.0
+    },
+    {
+      "source": "deliverables_proposal_proposal_project_proposal",
+      "target": "deliverables_proposal_proposal_coverage_scorecard",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L424",
+      "weight": 1.0
+    },
+    {
+      "source": "deliverables_proposal_proposal_project_proposal",
+      "target": "deliverables_proposal_proposal_risks_and_the_response_to_each",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L437",
+      "weight": 1.0
+    },
+    {
+      "source": "deliverables_proposal_proposal_project_proposal",
+      "target": "deliverables_proposal_proposal_build_schedule",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L449",
       "weight": 1.0
     },
     {
@@ -7527,18 +8018,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L587",
+      "source_location": "L465",
       "weight": 1.0
     },
     {
       "source": "deliverables_proposal_proposal_project_proposal",
-      "target": "deliverables_proposal_proposal_appendix_b_what_is_not_claimed",
+      "target": "deliverables_proposal_proposal_tools_to_be_used",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L604",
+      "source_location": "L47",
       "weight": 1.0
     },
     {
@@ -7549,7 +8040,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/proposal/proposal.md",
-      "source_location": "L89",
+      "source_location": "L88",
+      "weight": 1.0
+    },
+    {
+      "source": "deliverables_proposal_proposal_where_every_number_comes_from",
+      "target": "deliverables_proposal_proposal_the_validation_reference_stated_precisely",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "deliverables/proposal/proposal.md",
+      "source_location": "L404",
       "weight": 1.0
     },
     {
@@ -7560,6 +8062,160 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "deliverables/README.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide",
+      "target": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_2_install_graphify",
+      "target": "guides_graphify_windows_install_guide_option_a_uv_recommended",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_2_install_graphify",
+      "target": "guides_graphify_windows_install_guide_option_b_pip",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_3_verify_the_install",
+      "target": "guides_graphify_windows_install_guide_fixing_graphify_is_not_recognized",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L97",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "target": "guides_graphify_windows_install_guide_4_build_the_graph_for_this_repo",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L111",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "target": "guides_graphify_windows_install_guide_5_windows_specific_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L133",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "target": "guides_graphify_windows_install_guide_6_command_reference",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L151",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "target": "guides_graphify_windows_install_guide_7_troubleshooting",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L164",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "target": "guides_graphify_windows_install_guide_what_you_get",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "target": "guides_graphify_windows_install_guide_rules_of_use_in_this_repo",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L175",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "target": "guides_graphify_windows_install_guide_1_prerequisites",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "target": "guides_graphify_windows_install_guide_2_install_graphify",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_graphify_windows_install_guide_installing_graphify_on_windows_os_guide",
+      "target": "guides_graphify_windows_install_guide_3_verify_the_install",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/graphify-windows-install-guide.md",
+      "source_location": "L83",
+      "weight": 1.0
+    },
+    {
+      "source": "guides_index",
+      "target": "guides_index_guides_index",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "guides/INDEX.md",
       "source_location": "L1",
       "weight": 1.0
     },
@@ -9478,6 +10134,72 @@
       "weight": 1.0
     },
     {
+      "source": "tasks_history_active_t002_tracker",
+      "target": "tasks_history_active_t002_tracker_t002_tracker",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_active_t002_tracker_t002_tracker",
+      "target": "tasks_history_active_t002_tracker_the_complaint_restated",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_active_t002_tracker_t002_tracker",
+      "target": "tasks_history_active_t002_tracker_five_reframes_to_apply",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_active_t002_tracker_t002_tracker",
+      "target": "tasks_history_active_t002_tracker_hard_constraints_from_the_user",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_active_t002_tracker_t002_tracker",
+      "target": "tasks_history_active_t002_tracker_acceptance_criteria",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_active_t002_tracker_t002_tracker",
+      "target": "tasks_history_active_t002_tracker_one_conflict_flagged_to_the_user",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/active/T002-tracker.md",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
       "source": "tasks_history_executions_e001",
       "target": "tasks_history_executions_e001_e001_defensible_fyp_proposal_rewrite_for_agripulse",
       "relation": "contains",
@@ -9555,6 +10277,94 @@
       "weight": 1.0
     },
     {
+      "source": "tasks_history_executions_e002",
+      "target": "tasks_history_executions_e002_e002_student_voice_rewrite_of_the_agripulse_proposal",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_executions_e002_e002_student_voice_rewrite_of_the_agripulse_proposal",
+      "target": "tasks_history_executions_e002_5_verification",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L114",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_executions_e002_e002_student_voice_rewrite_of_the_agripulse_proposal",
+      "target": "tasks_history_executions_e002_6_what_you_still_have_to_do_unchanged_from_e001",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L134",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_executions_e002_e002_student_voice_rewrite_of_the_agripulse_proposal",
+      "target": "tasks_history_executions_e002_7_one_thing_to_watch_in_the_viva",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L146",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_executions_e002_e002_student_voice_rewrite_of_the_agripulse_proposal",
+      "target": "tasks_history_executions_e002_1_the_finding_that_shaped_the_rewrite",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_executions_e002_e002_student_voice_rewrite_of_the_agripulse_proposal",
+      "target": "tasks_history_executions_e002_2_what_was_cut_and_why",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_executions_e002_e002_student_voice_rewrite_of_the_agripulse_proposal",
+      "target": "tasks_history_executions_e002_3_what_was_reframed_not_deleted",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "tasks_history_executions_e002_e002_student_voice_rewrite_of_the_agripulse_proposal",
+      "target": "tasks_history_executions_e002_4_one_conflict_and_how_i_resolved_it",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/executions/E002.md",
+      "source_location": "L97",
+      "weight": 1.0
+    },
+    {
       "source": "tasks_history_index",
       "target": "tasks_history_index_tasks_history_index",
       "relation": "contains",
@@ -9586,8 +10396,19 @@
       "source_file": "tasks-history/logs/T001-log.md",
       "source_location": "L11",
       "weight": 1.0
+    },
+    {
+      "source": "tasks_history_logs_t002_log",
+      "target": "tasks_history_logs_t002_log_t002_action_log",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tasks-history/logs/T002-log.md",
+      "source_location": "L9",
+      "weight": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "57480162d35ee0fe87df6d7a9b225e663b8fccf9"
+  "built_at_commit": "139fe4aef63ed77adfefa9c540890acb30807f87"
 }
