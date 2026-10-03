@@ -30,9 +30,9 @@
     "semantic_hash": ""
   },
   "chat-history/INDEX.md": {
-    "mtime": 1790942010.2665257,
-    "seen": 1790942030.040259,
-    "ast_hash": "1ab158687b5d3d0e4a5bef8bc8fc8ef9",
+    "mtime": 1790868518.827535,
+    "seen": 1790868522.702848,
+    "ast_hash": "1bba1a88af48abf6b70d51d4107b870d",
     "semantic_hash": ""
   },
   "chat-history/inputs/Q1.txt": {
@@ -243,24 +243,6 @@
     "mtime": 1790868513.6685581,
     "seen": 1790868522.702889,
     "ast_hash": "f7deef3a429631ff87bbe04513a9de37",
-    "semantic_hash": ""
-  },
-  "chat-history/inputs/Q8.txt": {
-    "mtime": 1790914466.3348346,
-    "seen": 1790942030.040284,
-    "ast_hash": "6d00d1c7efb91f08b483f4e7d82be0e6",
-    "semantic_hash": ""
-  },
-  "chat-history/outputs/A8.md": {
-    "mtime": 1790942005.5556388,
-    "seen": 1790942030.0403075,
-    "ast_hash": "0abef20043ef30b971fb444bc26995dd",
-    "semantic_hash": ""
-  },
-  "deliverables/proposal/AgriPulse_Soil-Test_Driven_Farm_Planner.pdf": {
-    "mtime": 1790869943.7160869,
-    "seen": 1790942030.040373,
-    "ast_hash": "edd24d7a48b1395e10a9bdbefbf14476",
     "semantic_hash": ""
   }
 }
