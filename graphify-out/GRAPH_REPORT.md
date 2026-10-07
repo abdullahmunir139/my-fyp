@@ -1,16 +1,16 @@
 # Graph Report - my-fyp-abdullah  (2026-10-07)
 
 ## Corpus Check
-- 48 files · ~63,267 words
+- 49 files · ~71,331 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 512 nodes · 464 edges · 49 communities (35 shown, 14 thin omitted)
+- 537 nodes · 488 edges · 50 communities (36 shown, 14 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `96411d75`
+- Built from commit: `1d718998`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -64,23 +64,24 @@
 - ACT 3 — THE MACHINE
 - A11 — The Presentation: Slide Story, Market Analytics, and How To Defend It
 - 1. Project Summary
+- 3. The exact edits — paste-ready, in file order
 
 ## God Nodes (most connected - your core abstractions)
 1. `Hard Rule — This Is Not Optional` - 18 edges
 2. `Project Proposal` - 16 edges
 3. `A2 — Competitor Landscape, Scope Shrink, Feasibility Verdict` - 13 edges
 4. `A4 — Finalised Scope: 5 Pages, 4 Modules, HHD Locked, Wireframes` - 13 edges
-5. `A3 — Scope Refined to the Gap, Full Boundary, HHD, LLD, Data Allocation` - 12 edges
-6. `A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes` - 11 edges
-7. `Graphify Module — Instructions` - 11 edges
-8. `Notes Module — Instructions` - 11 edges
-9. `A5 — Proposal Built From the Official Template` - 10 edges
-10. `Installing Graphify on Windows OS — Guide` - 10 edges
+5. `3. The exact edits — paste-ready, in file order` - 12 edges
+6. `A3 — Scope Refined to the Gap, Full Boundary, HHD, LLD, Data Allocation` - 12 edges
+7. `A1 — AgriPulse AI: Data Flow, Tech Stack, HHD, Exact Data, Wireframes` - 11 edges
+8. `Graphify Module — Instructions` - 11 edges
+9. `Notes Module — Instructions` - 11 edges
+10. `A5 — Proposal Built From the Official Template` - 10 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (49 total, 14 thin omitted)
+## Communities (50 total, 14 thin omitted)
 
 ### Community 0 - "Hard Rule — This Is Not Optional"
 Cohesion: 0.07
@@ -222,9 +223,13 @@ Nodes (11): 0. Read this before you build a single slide — 4 things in the loc
 Cohesion: 0.22
 Nodes (8): 1. Project Summary, A10 — Summary, Architecture & Scope, Constraints & Decisions, Core Identity, Current State, Design Artifacts, Documentation Progress
 
+### Community 49 - "3. The exact edits — paste-ready, in file order"
+Cohesion: 0.08
+Nodes (24): 1. "Is our system just: take data by user → process → show results?", 2. What needs to change, and why — the short list, 3. The exact edits — paste-ready, in file order, 4. The corrected slide information, 5. The numbers you may print, and the numbers you may not, 6. Files touched this turn, A12 — The Exact Edits To proposal.md, Then The Corrected Slides, ACT 1 — THE PERSON (+16 more)
+
 ## Knowledge Gaps
-- **369 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+364 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 415 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **389 isolated node(s):** `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)`, `Modules`, `Flow` (+384 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 436 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **14 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
@@ -233,7 +238,7 @@ _Questions this graph is uniquely positioned to answer:_
 - **Why does `3. Slide by slide — what is on the slide, and what you say` connect `ACT 3 — THE MACHINE` to `A11 — The Presentation: Slide Story, Market Analytics, and How To Defend It`?**
   _High betweenness centrality (0.003) - this node is a cross-community bridge._
 - **What connects `The one diagram`, `Layers`, `Cross-repo wiring (FYP Desk org)` to the rest of the system?**
-  _369 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _389 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Hard Rule — This Is Not Optional` be split into smaller, more focused modules?**
   _Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected._
 - **Should `Tasks-History Module — Instructions` be split into smaller, more focused modules?**

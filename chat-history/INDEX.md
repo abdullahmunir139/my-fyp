@@ -27,3 +27,5 @@
 | A10.md | A | 2026-10-06 | kilo/kilo-auto/free | kilo | 1 | Full summary of AgriPulse AI FYP: scope, architecture, docs, wireframes, decisions |
 | Q11.txt | Q | 2026-10-07 | Human | Human | 1 | Proposal locked; asks slide story, competitor analytics, real cost reduction, framing, stack |
 | A11.md | A | 2026-10-07 | opencode/space-bunny-free | opencode | 1 | 18-slide 4-act story, market analytics, 4 cost levers, PoC framing, 14-question defence bank |
+| Q12.txt | Q | 2026-10-07 | Human | Human | 1 | Wants paste-ready proposal edits: soil-card, Indian rivals, no fake detail, then slides |
+| A12.md | A | 2026-10-07 | opencode/space-bunny-free | opencode | 1 | Confirms deterministic pipeline; 11 find/replace edits, corrected 18 slides, verified-figure ledger |
