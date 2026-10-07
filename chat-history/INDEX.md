@@ -25,3 +25,5 @@
 | A9.md | A | 2026-10-03 | opencode/big-pickle | opencode | 1 | Answers Q9; points to compiled Windows graphify install guide in guides module |
 | Q10.txt | Q | 2026-10-06 | Human | Human | 1 | Asks for summary of project and chat history |
 | A10.md | A | 2026-10-06 | kilo/kilo-auto/free | kilo | 1 | Full summary of AgriPulse AI FYP: scope, architecture, docs, wireframes, decisions |
+| Q11.txt | Q | 2026-10-07 | Human | Human | 1 | Proposal locked; asks slide story, competitor analytics, real cost reduction, framing, stack |
+| A11.md | A | 2026-10-07 | opencode/space-bunny-free | opencode | 1 | 18-slide 4-act story, market analytics, 4 cost levers, PoC framing, 14-question defence bank |
